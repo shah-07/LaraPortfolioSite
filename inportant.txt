@@ -1,0 +1,7 @@
+<-- FOCUS FOR BEGINNERS -->
+app -> Http, Models
+database -> migration
+resources -> views
+routes -> api.php, web.php
+storage -> app
+.env -> DB, MAIL
