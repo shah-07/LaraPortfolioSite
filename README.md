@@ -18,12 +18,7 @@ To install, open your terminal and follow the instructions below:
 "php artisan key:generate"
 5. Bootstrap the application:
 "php artisan serve"
-### Database
-Download the database: https://github.com/shah-07/LaraPortfolioSite/blob/main/portfolio_database.sql
-
-### License:
-This project is licensed under the MIT License. [Learn more about this license](https://docs.github.com/articles/licensing-a-repository).
 ### Demo:
-| ![Home](https://github.com/shah-07/LaraPortfolioSite/assets/69644198/be32c7fa-f8d7-4ec3-a649-4e2b987bbab4) | ![Resume](https://github.com/shah-07/LaraPortfolioSite/assets/69644198/d99fe7bc-65d7-4a86-b454-9719a32a6432) | ![Projects](https://github.com/shah-07/LaraPortfolioSite/assets/69644198/858b181a-7acc-49cc-96c5-37d846f43a8d) | ![Contact](https://github.com/shah-07/LaraPortfolioSite/assets/69644198/6aac709e-48bf-495c-be18-2587626cb827) |
+| ![Home](https://github.com/shah-07/LaraPortfolioSite/assets/69644198/56e65ab2-bbef-4d6d-86b5-df55a7a36c50) | ![Resume](https://github.com/shah-07/LaraPortfolioSite/assets/69644198/66e15738-c763-4c42-b31e-6d8810cbfb45) | ![Projects](https://github.com/shah-07/LaraPortfolioSite/assets/69644198/813da9c4-9c56-45af-b3ab-bed3a8e56e90) | ![Contact](https://github.com/shah-07/LaraPortfolioSite/assets/69644198/0cfe5627-6c07-48a4-a713-8fa327926cea) |
 |---|---|---|---|
 | Home | Resume | Projects | Contact |
